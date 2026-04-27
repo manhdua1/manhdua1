@@ -5,10 +5,10 @@
 I'm a Information Technology (CN1) in University of Engineering and Technology, Vietnam National University. I'm a casual Backend Developer.
 <br>
 <br>
-My hobby is playing and streaming video games. My favourite video games are Elden Ring, Limbus Company, Library of Ruina, Dark Souls, Trails series, Monster Hunter series, etc.
+My hobby is playing and streaming video games. My favourite video games are Elden Ring, Limbus Company, Library of Ruina, Dark Souls, Trails series, Monster Hunter series, Arcaea, etc.
 <br>
 <br>
-I'm interested in: Linux, Bash script, System design, Devops.
+I'm interested in: Linux, Bash script, System design, DevOps.
 
 ### 💻 Programming Languages
 ![Programming Languages](https://skillicons.dev/icons?i=java,py,cpp,cs,js)
