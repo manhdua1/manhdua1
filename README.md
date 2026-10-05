@@ -11,13 +11,13 @@ I'm interested in: Linux, Bash script, System design, DevOps.
 ![Programming Languages](https://skillicons.dev/icons?i=java,py,cpp,js)
 
 ### 🎨 Frontend
-![Frontend](https://skillicons.dev/icons?i=html,css)
+![Frontend](https://skillicons.dev/icons?i=html,css,react)
 
 ### ⚙️ Backend & Frameworks
 ![Backend & Frameworks](https://skillicons.dev/icons?i=spring)
 
-### 🗄️ Databases & Caching
-![Databases & Caching](https://skillicons.dev/icons?i=mysql,redis)
+### 🗄️ Databases, Caching and Messaging
+![Databases & Caching](https://skillicons.dev/icons?i=mysql,redis,rabbitmq)
 
 ### 🛠️ Tools & Build
 ![Tools & Build](https://skillicons.dev/icons?i=maven,vscode,idea,postman,docker,git,github)
